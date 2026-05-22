@@ -1,6 +1,6 @@
 # 🍔 E-Menu Telegram Food Ordering Bot
 
-A fully functional, feature-rich Telegram Bot for food ordering and restaurant management. Built with Python and SQLite, this bot provides a seamless ordering experience for customers and a powerful management interface for restaurant owners.
+A fully functional, feature-rich Telegram Bot for food ordering and restaurant management. Built with Python and **Supabase (PostgreSQL)**, this bot provides a seamless ordering experience for customers and a powerful, cloud-secured management interface for restaurant owners.
 
 ## ✨ Features
 
@@ -17,17 +17,17 @@ A fully functional, feature-rich Telegram Bot for food ordering and restaurant m
 * **📢 Broadcast System:** Send promotional messages or images to all customers who have interacted with the bot using a secret `/broadcast` command.
 
 ### Technical & System
-* **🗄️ Local Database (SQLite):** Lightweight, fast, and auto-generates tables upon first run.
+* **☁️ Cloud Database (Supabase):** Secure, scalable, and real-time PostgreSQL database ensuring no data is lost during server restarts.
 * **🔄 Auto-Reconnect Logic:** Built-in infinite polling loop to automatically recover from proxy drops or temporary network disconnections.
-* **☁️ Cloud-Ready:** Optimized for free hosting platforms like PythonAnywhere.
+* **🚀 Cloud-Ready:** Optimized for seamless deployment on hosting platforms like PythonAnywhere or Railway.
 
 ---
 
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
-* **Library:** `pyTelegramBotAPI` (Telebot)
-* **Database:** SQLite3
+* **Bot Library:** `pyTelegramBotAPI` (Telebot)
+* **Database:** Supabase (PostgreSQL)
 * **Environment Management:** `python-dotenv`
 
 ---
