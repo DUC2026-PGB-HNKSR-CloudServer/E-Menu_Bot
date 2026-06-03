@@ -1,0 +1,175 @@
+[
+  {
+    "order_id": 19910,
+    "time": "2026-05-15 16:45",
+    "items": [
+      {
+        "category": "Pizza",
+        "item": "Margherita",
+        "price": 12.99
+      }
+    ],
+    "total": 12.99,
+    "phone": "245",
+    "address": "Pp",
+    "delivery_time": "15 នាទី",
+    "payment": "QR Code Payment",
+    "status": "Pending"
+  },
+  {
+    "order_id": 85150,
+    "time": "2026-05-15 16:49",
+    "items": [
+      {
+        "category": "Drinks",
+        "item": "Water",
+        "price": 1.99
+      },
+      {
+        "category": "Drinks",
+        "item": "Water",
+        "price": 1.99
+      }
+    ],
+    "total": 3.98,
+    "phone": "7777777",
+    "address": "PP",
+    "delivery_time": "60 នាទី",
+    "payment": "Cash on Delivery",
+    "status": "Pending"
+  },
+  {
+    "order_id": 62242,
+    "time": "2026-05-15 16:52",
+    "items": [
+      {
+        "category": "Burger",
+        "item": "Chicken",
+        "price": 11.49
+      }
+    ],
+    "total": 11.49,
+    "phone": "0000000",
+    "address": "PP",
+    "delivery_time": "30 នាទី",
+    "payment": "Cash on Delivery",
+    "status": "Pending"
+  },
+  {
+    "order_id": 38043,
+    "time": "2026-05-15 16:54",
+    "items": [
+      {
+        "category": "Pizza",
+        "item": "Pepperoni",
+        "price": 14.99
+      }
+    ],
+    "total": 14.99,
+    "phone": "Kb",
+    "address": "Pp",
+    "delivery_time": "60 នាទី",
+    "payment": "QR Code Payment",
+    "status": "Pending"
+  },
+  {
+    "order_id": 79259,
+    "time": "2026-05-15 17:08",
+    "items": [
+      {
+        "category": "Pizza",
+        "item": "Margherita",
+        "price": 12.99
+      }
+    ],
+    "total": 12.99,
+    "phone": "KSP",
+    "address": "999999",
+    "delivery_time": "15 នាទី",
+    "payment": "Cash on Delivery",
+    "status": "Pending"
+  },
+  {
+    "order_id": 82216,
+    "time": "2026-05-15 17:32",
+    "items": [
+      {
+        "category": "Pizza",
+        "item": "Margherita",
+        "price": 12.99
+      }
+    ],
+    "total": 12.99,
+    "phone": "0000000",
+    "address": "KSP",
+    "delivery_time": "15 នាទី",
+    "payment": "QR Code",
+    "status": "Pending"
+  },
+  {
+    "order_id": 80299,
+    "time": "2026-05-15 17:33",
+    "items": [
+      {
+        "category": "Drinks",
+        "item": "Water",
+        "price": 1.99
+      }
+    ],
+    "total": 1.99,
+    "phone": "000",
+    "address": "pp",
+    "delivery_time": "15 នាទី",
+    "payment": "Cash on Delivery",
+    "status": "Pending"
+  },
+  {
+    "order_id": 80980,
+    "time": "2026-05-15 18:14",
+    "items": [
+      {
+        "category": "Pizza",
+        "item": "Margherita",
+        "price": 12.99
+      },
+      {
+        "category": "Pizza",
+        "item": "Margherita",
+        "price": 12.99
+      },
+      {
+        "category": "Pizza",
+        "item": "Margherita",
+        "price": 12.99
+      },
+      {
+        "category": "Pizza",
+        "item": "Margherita",
+        "price": 12.99
+      }
+    ],
+    "total": 51.96,
+    "phone": "99",
+    "address": "Pp",
+    "delivery_time": "60 នាទី",
+    "payment": "Cash on Delivery",
+    "status": "Pending"
+  },
+  {
+    "order_id": 27430,
+    "time": "2026-05-15 18:14",
+    "items": [
+      {
+        "category": "Pizza",
+        "item": "Veggie",
+        "price": 13.49
+      }
+    ],
+    "total": 13.49,
+    "phone": "0979259279",
+    "address": "Phnom Penh",
+    "delivery_time": "15 នាទី",
+    "payment": "Cash on Delivery",
+    "status": "Pending"
+  }
+]
